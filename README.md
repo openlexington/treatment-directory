@@ -28,6 +28,7 @@ Sometimes there's not a social worker for a client to talk to.
     - Nurses could incorporate questions into the discharge step.
 - A mobile app to be used by health care professionals would be the most helpful, says social worker.
 - HIPAA compliance is a concern.
+- Knowledge-sharing tool for caregivers.
 
 ## Notes from a social worker
 
@@ -45,6 +46,8 @@ What makes a good development district? They call you back. They sound excited t
 
 Accessibility to programs via mobile would help the clients the most, says social worker. A lot of areas don't have good cell coverage, so it'd be on the social worker to look something up at the office and call the client back.
 
-The age range that is served is very important information. Some programs are only for children, some programs are for veterans.
+The age range that is served is very important information. Some programs are only for children, some programs are for veterans. Also distinguishing between paid and free services.
 
 Food stamps, WIC, Medicare, Medicaid, substance abuse--big categories our social worker interviewee would look for on a resource directory. Housekeeping, bathing, at home with no food. Need detail and subcategories. Home health needs for elderly clients.
+
+What would a sponsor want to see in a service like this? Meetings. If I'm going to visit my parents in Richmond and my sponsor is in Louisville, if I'm having issues the first thing the sponsor will say is 'find a meeting.'
