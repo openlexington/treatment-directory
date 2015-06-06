@@ -24,6 +24,12 @@ A nurse might recognize a need, call an overworked social worker, tell the famil
 
 ## Solution ideas
 
+- Social worker wants to search for services by the client's zip code.
+    - After social worker gets services from app, she will pass along phone numbers to the client. "You need a hot meal? Call Warm Blessings."
+    - Nurse could use the app and get the same results, wouldn't have to call a social worker to get resources for client.
+    - Biggest thing is that the services listed are still around, that the data is up to date.
+    - Break down whether service costs money or not, who it serves, its phone number(s).
+    - Search based on need: bath, meal, etc.
 - TurboTax-style questions for a client, like a wizard. How are you feeling, etc., and the information could go back into the system, to the nurse, the social worker, etc.
     - Nurses could incorporate questions into the discharge step.
 - A mobile app to be used by health care professionals would be the most helpful, says social worker.
@@ -32,10 +38,6 @@ A nurse might recognize a need, call an overworked social worker, tell the famil
 - Make it easy to report service issues (bad data, missing data, etc.).
 - Give data owners statistics in periodic emails.
     - Good to send an email at least every few months so they remember the web site exists and their service is represented there.
-- Social worker wants to search for services by the client's zip code.
-    - After social worker gets services from app, she will pass along phone numbers to the client. "You need a hot meal? Call Warm Blessings."
-    - Nurse could use the app and get the same results, wouldn't have to call a social worker to get resources for client.
-    - Biggest thing is that the services listed are still around, that the data is up to date.
 
 ## Notes from a social worker
 
@@ -65,4 +67,4 @@ Some things are peer-driven. Big emphasis and push on recovery. You might not ha
 
 Because the service exists doesn't necessarily mean it's a good service. Waiting lists, for example, so the client can't get help immediately. Social might need to tell the state "there's a waiting list for service X" and the state can see there's a need for more funding in that area.
 
-Social worker might find a client by a referral.
+Social worker gets a referral, sees the client's income, whether they're single or a family, etc. before meeting the client. Can start to filter out "well I can't use that service, they won't be able to afford it." She won't really know until she sits down and talks to the client. But maybe they've got $100,000 under the bed they didn't tell the nurse about, or they have a rich aunt. 
