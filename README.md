@@ -28,6 +28,6 @@ Elderly person didn't know they needed a landline to be able to use a LifeAlert 
 
 Social worker ends up doing a lot of work she wouldn't get paid for because she wanted to do it and knew if she didn't do it, it wouldn't get done.
 
-Department of Aging and Developmental Disabilities would be the people who would enter resource information initially. Different development districts have their own resource directories. [Bluegrass Area Development District](http://bgadd.org/)
+[Department of Aging and Independent Living](http://chfs.ky.gov/dail/) would be the people who would enter resource information initially. Different development districts have their own resource directories. [Bluegrass Area Development District](http://bgadd.org/)
 
 What makes a good development district? They call you back. They sound excited to talk to you on the phone. They keep their information up to date.
