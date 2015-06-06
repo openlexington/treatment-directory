@@ -2,13 +2,19 @@
 
 ## Define the user and the problem
 
-People in need and social workers, nurses, etc. that can help them. Sometimes the people in need don't have the access themselves to get the things they need, so social workers and nurses are good targets because they'll have access to computer, Internet, etc. and can use that information to help others.
+People in need (clients) and social workers, nurses, etc. that can help them. Sometimes the people in need don't have the access themselves to get the things they need, so social workers and nurses are good targets because they'll have access to computer, Internet, etc. and can use that information to help others.
 
 Has to be quick because most nurses don't have the time. They get paid for the time they spend with the client, they won't get paid for spending time at home working with a web site.
 
+A nurse might recognize a need and contact a social worker. Clients might contact a relative for help, others don't have that resource. So people just don't get help. Nurses are overworked.
+
+How do you convince a nurse or someone to use a tool that would still require time investment that they might not get paid for? Desire to help their patients.
+
 ## What are pain points with the status quo?
 
-A nurse might recognize a need and contact a social worker.
+Information is there but people who need it 1) don't know it exists, 2) can't get to it, 3) can't understand the paperwork or other things blocking them from getting what they need.
+
+Resources exist but get out of date.
 
 ## Solution ideas
 
@@ -20,3 +26,6 @@ A man trying to get money from Veterans Affairs couldn't understand the papers h
 
 Elderly person didn't know they needed a landline to be able to use a LifeAlert button. Also didn't know they could get a landline for free. Not just a phone but hot meals, help around the house, could be anything they need and don't realize they can get. AT&T gives landlines for free to elderly people if you meet criteria, like if you're on food stamps.
 
+Social worker ends up doing a lot of work she wouldn't get paid for because she wanted to do it and knew if she didn't do it, it wouldn't get done.
+
+Department of Aging and Developmental Disabilities would be the people who would enter resource information initially. Different development districts have their own resource directories. [Bluegrass Area Development District](http://bgadd.org/)
