@@ -1,5 +1,7 @@
 # How to sustain a treatment directory?
 
+Grant might let a treatment directory be created and put online, but when the grant runs out, no one updates the information. Services don't exist anymore, phone numbers can change, etc.
+
 ## Define the user and the problem
 
 People in need (clients) and social workers, nurses, etc. that can help them. Sometimes the people in need don't have the access themselves to get the things they need, so social workers and nurses are good targets because they'll have access to computer, Internet, etc. and can use that information to help others.
@@ -30,6 +32,10 @@ A nurse might recognize a need, call an overworked social worker, tell the famil
     - Biggest thing is that the services listed are still around, that the data is up to date.
     - Break down whether service costs money or not, who it serves, its phone number(s).
     - Search based on need: bath, meal, etc.
+    - Filter out services that don't apply to the client, then once it's narrowed down to applicable services, get information that the social worker can use herself or pass along to the client.
+        - First big filter is location--search by zip code.
+        - Filter by need: in-home services, caregiver, hot meals, a bath, etc.
+        - Filter by demographic served, e.g., just for children, for veterans.
 - TurboTax-style questions for a client, like a wizard. How are you feeling, etc., and the information could go back into the system, to the nurse, the social worker, etc.
     - Nurses could incorporate questions into the discharge step.
 - A mobile app to be used by health care professionals would be the most helpful, says social worker.
