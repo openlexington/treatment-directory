@@ -26,7 +26,7 @@ A nurse might recognize a need, call an overworked social worker, tell the famil
 
 ## Solution ideas
 
-- Social worker wants to search for services by the client's zip code.
+- Social worker's ideal app:
     - After social worker gets services from app, she will pass along phone numbers to the client. "You need a hot meal? Call Warm Blessings."
     - Nurse could use the app and get the same results, wouldn't have to call a social worker to get resources for client.
     - Biggest thing is that the services listed are still around, that the data is up to date.
@@ -40,6 +40,7 @@ A nurse might recognize a need, call an overworked social worker, tell the famil
     - Indicate when service listing was last updated--big thing is that the data in the directory can be trusted (the service still exists, its info is accurate).
     - App needs to be user-friendly. Social worker liked referweb.net but complained the text was too small, for example. Accessibility.
     - Simpler is better. Social worker preferred the layout and flow of Aunt Bertha but the information was out of date and inaccurate.
+    - Wants to see who is the benefit specialist; a person to visit the client; specific to Veterans Affairs.
 - TurboTax-style questions for a client, like a wizard. How are you feeling, etc., and the information could go back into the system, to the nurse, the social worker, etc.
     - Nurses could incorporate questions into the discharge step.
 - A mobile app to be used by health care professionals would be the most helpful, says social worker.
