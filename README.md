@@ -10,13 +10,19 @@ A nurse might recognize a need and contact a social worker. Clients might contac
 
 How do you convince a nurse or someone to use a tool that would still require time investment that they might not get paid for? Desire to help their patients.
 
+Nurses and social workers have eyes for different things, they see different problems. What's your blood pressure versus when was the last time someone cleaned.
+
 ## What are pain points with the status quo?
 
 Information is there but people who need it 1) don't know it exists, 2) can't get to it, 3) can't understand the paperwork or other things blocking them from getting what they need.
 
 Resources exist but get out of date. Out in the wild with a client is the most difficult time to find information. Even when you're in the office, sometimes the information is out of date.
 
+Sometimes there's not a social worker for a client to talk to. 
+
 ## Solution ideas
+
+TurboTax-style questions for a client. How are you feeling, etc., and the information could go back into the system, to the nurse, the social worker, etc.
 
 ## Notes from a social worker
 
