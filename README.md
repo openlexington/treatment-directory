@@ -20,11 +20,14 @@ Resources exist but get out of date. Out in the wild with a client is the most d
 
 Sometimes there's not a social worker for a client to talk to. 
 
+[Aunt Bertha](https://www.auntbertha.com/get_directory?postal=42701#program-details-ahJzfnNlYXJjaGJlcnRoYS1ocmRyFAsSB1Byb2dyYW0YgICAspymqQoM) was one attempt for this. Some information does not seem relevant for the zip code that's searched. There's a free service but it's not as good as the paid one, and the paid one would be expensive. Also info is not prominent about age restrictions for services provided, like if the service is just for children versus adults.
+
 ## Solution ideas
 
 - TurboTax-style questions for a client. How are you feeling, etc., and the information could go back into the system, to the nurse, the social worker, etc.
     - Nurses could incorporate questions into the discharge step.
 - A mobile app to be used by health care professionals would be the most helpful, says social worker.
+- HIPAA compliance is a concern.
 
 ## Notes from a social worker
 
@@ -41,3 +44,5 @@ Social worker ends up doing a lot of work she wouldn't get paid for because she 
 What makes a good development district? They call you back. They sound excited to talk to you on the phone. They keep their information up to date. They're thorough. They have a mobile app.
 
 Accessibility to programs via mobile would help the clients the most, says social worker. A lot of areas don't have good cell coverage, so it'd be on the social worker to look something up at the office and call the client back.
+
+The age range that is served is very important information. Some programs are only for children, some programs are for veterans.
