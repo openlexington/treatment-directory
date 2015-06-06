@@ -46,3 +46,5 @@ What makes a good development district? They call you back. They sound excited t
 Accessibility to programs via mobile would help the clients the most, says social worker. A lot of areas don't have good cell coverage, so it'd be on the social worker to look something up at the office and call the client back.
 
 The age range that is served is very important information. Some programs are only for children, some programs are for veterans.
+
+Food stamps, WIC, Medicare, Medicaid, substance abuse--big categories our social worker interviewee would look for on a resource directory. Housekeeping, bathing, at home with no food. Need detail and subcategories. Home health needs for elderly clients.
