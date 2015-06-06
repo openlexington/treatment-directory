@@ -23,6 +23,7 @@ Sometimes there's not a social worker for a client to talk to.
 ## Solution ideas
 
 - TurboTax-style questions for a client. How are you feeling, etc., and the information could go back into the system, to the nurse, the social worker, etc.
+    - Nurses could incorporate questions into the discharge step.
 - A mobile app to be used by health care professionals would be the most helpful, says social worker.
 
 ## Notes from a social worker
