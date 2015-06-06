@@ -22,7 +22,8 @@ Sometimes there's not a social worker for a client to talk to.
 
 ## Solution ideas
 
-TurboTax-style questions for a client. How are you feeling, etc., and the information could go back into the system, to the nurse, the social worker, etc.
+- TurboTax-style questions for a client. How are you feeling, etc., and the information could go back into the system, to the nurse, the social worker, etc.
+- A mobile app to be used by health care professionals would be the most helpful, says social worker.
 
 ## Notes from a social worker
 
@@ -36,4 +37,6 @@ Social worker ends up doing a lot of work she wouldn't get paid for because she 
 
 [Department of Aging and Independent Living](http://chfs.ky.gov/dail/) would be the people who would enter resource information initially. Different development districts have their own resource directories. [Bluegrass Area Development District](http://bgadd.org/)
 
-What makes a good development district? They call you back. They sound excited to talk to you on the phone. They keep their information up to date.
+What makes a good development district? They call you back. They sound excited to talk to you on the phone. They keep their information up to date. They're thorough. They have a mobile app.
+
+Accessibility to programs via mobile would help the clients the most, says social worker. A lot of areas don't have good cell coverage, so it'd be on the social worker to look something up at the office and call the client back.
