@@ -32,6 +32,10 @@ A nurse might recognize a need, call an overworked social worker, tell the famil
 - Make it easy to report service issues (bad data, missing data, etc.).
 - Give data owners statistics in periodic emails.
     - Good to send an email at least every few months so they remember the web site exists and their service is represented there.
+- Social worker wants to search for services by the client's zip code.
+    - After social worker gets services from app, she will pass along phone numbers to the client. "You need a hot meal? Call Warm Blessings."
+    - Nurse could use the app and get the same results, wouldn't have to call a social worker to get resources for client.
+    - Biggest thing is that the services listed are still around, that the data is up to date.
 
 ## Notes from a social worker
 
@@ -57,3 +61,8 @@ What would a sponsor want to see in a service like this? Meetings. If I'm going 
 
 Each service needs receptionist to help with specifics.
 
+Some things are peer-driven. Big emphasis and push on recovery. You might not have a social worker or nurse there, just other people who have recovered and are pulling people through.
+
+Because the service exists doesn't necessarily mean it's a good service. Waiting lists, for example, so the client can't get help immediately. Social might need to tell the state "there's a waiting list for service X" and the state can see there's a need for more funding in that area.
+
+Social worker might find a client by a referral.
