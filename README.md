@@ -68,3 +68,14 @@ Some things are peer-driven. Big emphasis and push on recovery. You might not ha
 Because the service exists doesn't necessarily mean it's a good service. Waiting lists, for example, so the client can't get help immediately. Social might need to tell the state "there's a waiting list for service X" and the state can see there's a need for more funding in that area.
 
 Social worker gets a referral, sees the client's income, whether they're single or a family, etc. before meeting the client. Can start to filter out "well I can't use that service, they won't be able to afford it." She won't really know until she sits down and talks to the client. But maybe they've got $100,000 under the bed they didn't tell the nurse about, or they have a rich aunt. 
+
+Social worker's assessment of a client, usually at the client's house in person:
+
+- Diagnosis
+- Income
+- Level of function, present and future
+    - Outcome, whether they can be more independent or if they're in decline
+- How many in the home
+    - Do they live with a caregiver? Do they live alone and a caregiver comes over? Do they live with family?
+- Goals for short term
+    - Client's goal might be to get hot meals. Insurance limits how many visits you can have. If it takes the social worker three visits to get hot meals for the client, that's bad. It'd be better to look up that service on her phone and give the resource to the client immediately.
