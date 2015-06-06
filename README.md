@@ -36,6 +36,9 @@ A nurse might recognize a need, call an overworked social worker, tell the famil
         - First big filter is location--search by zip code.
         - Filter by need: in-home services, caregiver, hot meals, a bath, etc.
         - Filter by demographic served, e.g., just for children, for veterans.
+        - Filter by if there's a waiting list or if it can help immediately.
+    - Indicate when service listing was last updated--big thing is that the data in the directory can be trusted (the service still exists, its info is accurate).
+    - App needs to be user-friendly. Social worker liked referweb.net but complained the text was too small, for example. Accessibility.
 - TurboTax-style questions for a client, like a wizard. How are you feeling, etc., and the information could go back into the system, to the nurse, the social worker, etc.
     - Nurses could incorporate questions into the discharge step.
 - A mobile app to be used by health care professionals would be the most helpful, says social worker.
