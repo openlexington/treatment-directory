@@ -90,3 +90,5 @@ Social worker's assessment of a client, usually at the client's house in person:
     - Do they live with a caregiver? Do they live alone and a caregiver comes over? Do they live with family?
 - Goals for short term
     - Client's goal might be to get hot meals. Insurance limits how many visits you can have. If it takes the social worker three visits to get hot meals for the client, that's bad. It'd be better to look up that service on her phone and give the resource to the client immediately.
+
+Starts at the hospital, client about to go home, gets referred by a nurse to a social worker.
