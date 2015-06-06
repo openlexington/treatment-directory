@@ -6,13 +6,11 @@ People in need (clients) and social workers, nurses, etc. that can help them. So
 
 Has to be quick because most nurses don't have the time. They get paid for the time they spend with the client, they won't get paid for spending time at home working with a web site.
 
-A nurse might recognize a need and contact a social worker. Clients might contact a relative for help, others don't have that resource. So people just don't get help. Nurses are overworked.
-
 How do you convince a nurse or someone to use a tool that would still require time investment that they might not get paid for? Desire to help their patients.
 
 Nurses and social workers have eyes for different things, they see different problems. What's your blood pressure versus when was the last time someone cleaned.
 
-## What are pain points with the status quo?
+## What are problems with the status quo?
 
 Information is there but people who need it 1) don't know it exists, 2) can't get to it, 3) can't understand the paperwork or other things blocking them from getting what they need.
 
@@ -22,13 +20,18 @@ Sometimes there's not a social worker for a client to talk to.
 
 [Aunt Bertha](https://www.auntbertha.com/get_directory?postal=42701#program-details-ahJzfnNlYXJjaGJlcnRoYS1ocmRyFAsSB1Byb2dyYW0YgICAspymqQoM) was one attempt for this. Some information does not seem relevant for the zip code that's searched. There's a free service but it's not as good as the paid one, and the paid one would be expensive. Also info is not prominent about age restrictions for services provided, like if the service is just for children versus adults.
 
+A nurse might recognize a need, call an overworked social worker, tell the family, and still nothing happens. Clients might contact a relative for help, others don't have that resource. Nurses are overworked.
+
 ## Solution ideas
 
-- TurboTax-style questions for a client. How are you feeling, etc., and the information could go back into the system, to the nurse, the social worker, etc.
+- TurboTax-style questions for a client, like a wizard. How are you feeling, etc., and the information could go back into the system, to the nurse, the social worker, etc.
     - Nurses could incorporate questions into the discharge step.
 - A mobile app to be used by health care professionals would be the most helpful, says social worker.
 - HIPAA compliance is a concern.
 - Knowledge-sharing tool for caregivers.
+- Make it easy to report service issues (bad data, missing data, etc.).
+- Give data owners statistics in periodic emails.
+    - Good to send an email at least every few months so they remember the web site exists and their service is represented there.
 
 ## Notes from a social worker
 
@@ -51,3 +54,6 @@ The age range that is served is very important information. Some programs are on
 Food stamps, WIC, Medicare, Medicaid, substance abuse--big categories our social worker interviewee would look for on a resource directory. Housekeeping, bathing, at home with no food. Need detail and subcategories. Home health needs for elderly clients.
 
 What would a sponsor want to see in a service like this? Meetings. If I'm going to visit my parents in Richmond and my sponsor is in Louisville, if I'm having issues the first thing the sponsor will say is 'find a meeting.'
+
+Each service needs receptionist to help with specifics.
+
